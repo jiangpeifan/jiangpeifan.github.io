@@ -15,17 +15,22 @@ Education
 * M.S. in Computer Technology, Chengdu University of Technology, 2023
 
 
+
 Skills
 ======
 * Programming
 * Calligraphy
+
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
