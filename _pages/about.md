@@ -22,4 +22,4 @@ I am currently working on:
 - Deep learning based magnetotelluric forward modeling and inversion.
 - Deep learning based seismic first break picking.
 
-Welcome everyone to engage with me, My email address is <u>jpeifan@qq.com</u>
+Welcome everyone to engage with me, my email address is <u>jpeifan@qq.com</u>
