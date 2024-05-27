@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peifan Jiang's academic personal websites"
+title: "Peifan Jiang's academic personal website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,10 @@ redirect_from:
 ### Personal profile
 
 ---
-I am currently pursuing my Ph.D. at School of Geophysics, Chengdu University of Technology. My major is Earth Exploration and Information Technology. My supervisor is Xuben Wang.
+I am currently pursuing my Ph.D. at Chengdu University of Technology, major in Earth Exploration and Information Technology, supervisor by Xuben Wang.
 
-Before that, I obtained my Master's degree in Computer Technology from Chengdu University of Technology in 2023.
+Before that, I obtained my Master's degree in Computer Technology at Chengdu University of Technology in 2023.
+
 ### Research interest
 
 ---
