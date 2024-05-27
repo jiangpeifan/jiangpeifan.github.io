@@ -5,7 +5,7 @@ permalink: /publication/2023-02-23-FBpicking
 excerpt: 'High precision first break picking achieved using MSA based Swin Transformer'
 date: 2023-02-23
 venue: 'IEEE Geoscience and Remote Sensing Letters'
-paperurl: 'https://ieeexplore.ieee.org/document/10050858'
+# paperurl: 'https://ieeexplore.ieee.org/document/10050858'
 ---
 
 ## Abstract
@@ -14,7 +14,7 @@ The application of neural networks to seismic first break (FB) picking research 
 
 ## Paper
 
-[Seismic First Break Picking Through Swin Transformer Feature Extraction]( )
+[Seismic First Break Picking Through Swin Transformer Feature Extraction](https://ieeexplore.ieee.org/document/10050858 )
 
 ## Feature extraction method
 ![掩码策略](../images/FB/fig.jpg)
