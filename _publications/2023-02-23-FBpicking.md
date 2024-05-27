@@ -1,5 +1,5 @@
 ---
-title: "<*first author*> Seismic First Break Picking Through Swin Transformer Feature Extraction"
+title: "<font color='ff0000'> <*first author*> </font> Seismic First Break Picking Through Swin Transformer Feature Extraction"
 collection: publications
 permalink: /publication/2023-02-23-FBpicking
 excerpt: 'High precision first break picking achieved using MSA based Swin Transformer.'
