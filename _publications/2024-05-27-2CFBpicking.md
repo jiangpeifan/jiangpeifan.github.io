@@ -1,9 +1,9 @@
 ---
-title: "(First author) 3-D Seismic First Break Picking Based on Two-channel Mask Strategy"
+title: "<first author> 3-D Seismic First Break Picking Based on Two-channel Mask Strategy"
 collection: publications
-permalink: /publication/2035-05-15-2CFBpicking
+permalink: /publication/2024-05-27-2CFBpicking
 excerpt: 'Propose a two-channel mask strategy to improve the accuracy and generalization of first break picking'
-date: 2035-05-15
+date: 2024-05-27
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: ''
 ---
