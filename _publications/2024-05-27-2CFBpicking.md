@@ -20,9 +20,9 @@ In recent years, much attention has been paid to using deep learning techniques 
 ![Mask Strategy](../images/FB/2CFB.png)
 
 
-## Dataset
+## Code
 
-### The dataset implementation is [here.](https://github.com/jiangpeifan/2C-SeismicFBpicking)
+### The code is available at [here.](https://github.com/jiangpeifan/2C-SeismicFBpicking)
 
 ## Cite
 
