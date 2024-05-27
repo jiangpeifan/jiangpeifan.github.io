@@ -2,7 +2,7 @@
 title: "<*first author*> Seismic First Break Picking Through Swin Transformer Feature Extraction"
 collection: publications
 permalink: /publication/2023-02-23-FBpicking
-excerpt: 'High precision first break picking achieved using MSA based Swin Transformer'
+# excerpt: 'High precision first break picking achieved using MSA based Swin Transformer'
 date: 2023-02-23
 venue: 'IEEE Geoscience and Remote Sensing Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/10050858'
