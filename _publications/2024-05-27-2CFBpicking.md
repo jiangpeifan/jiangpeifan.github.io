@@ -1,5 +1,5 @@
 ---
-title: "<*first author*> 3-D Seismic First Break Picking Based on Two-channel Mask Strategy"
+title: "<font color='ff0000'> <first author> </font> 3-D Seismic First Break Picking Based on Two-channel Mask Strategy"
 collection: publications
 permalink: /publication/2024-05-27-2CFBpicking
 excerpt: 'Propose a two-channel mask strategy to improve the accuracy and generalization of first break picking'
