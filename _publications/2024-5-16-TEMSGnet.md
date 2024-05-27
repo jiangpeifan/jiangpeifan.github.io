@@ -6,7 +6,6 @@ excerpt: 'Using Diffusion Modeling for Denoising Semi-Aerial Electromagnetic Sig
 date: 2024-5-16
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://ieeexplore.ieee.org/document/10533855'
-citation: 'F. Deng, B. Wang, P. Jiang, X. Wang and M. Guo, "Semi-Airborne Transient Electromagnetic Denoising Through Variation Diffusion Model," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3402212'
 ---
 # Abstract
 ---
