@@ -22,7 +22,7 @@ repository               : "https://github.com/jiangpeifan"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Peifan Jiang"
+  name             : # "Peifan Jiang"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Chengdu, China"
