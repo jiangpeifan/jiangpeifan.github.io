@@ -31,6 +31,5 @@ In recent years, much attention has been paid to using deep learning techniques 
 
 ```
 Undergoing Review (Minor Revision)
-
 ````
 

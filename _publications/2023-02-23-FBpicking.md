@@ -36,7 +36,5 @@ The application of neural networks to seismic first break (FB) picking research 
   pages={1-5},
   keywords={Transformers;Feature extraction;Data models;Semantic segmentation;Convolution;Signal to noise ratio;Neural networks;First breaks (FBs) picking;neural networks;seismic first breaks;self-attention (SA);Swin Transformer},
   doi={10.1109/LGRS.2023.3248233}}
-
-
 ````
 
