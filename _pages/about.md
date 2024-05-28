@@ -10,7 +10,7 @@ redirect_from:
 ### 🌱 Personal profile
 
 ---
-My name is Peifan Jiang, 我叫蒋沛凡.
+My name is Peifan Jiang (蒋沛凡).
 
 I am currently pursuing my Ph.D. in Earth Exploration and Information Technology at Chengdu University of Technology, supervisor by Xuben Wang.
 
