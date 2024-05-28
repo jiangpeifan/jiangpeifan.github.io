@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peifan Jiang's personal website"
+title: "Peifan Jiang's PERSONAL WEBSITE"
 author_profile: true
 redirect_from: 
   - /about/
