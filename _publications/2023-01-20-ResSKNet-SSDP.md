@@ -1,5 +1,5 @@
 ---
-title: "<font color='000000'>(third author)</font> ResSKNet-SSDP: Effective and Light End-To-End Architecture for Speaker Recognition"
+title: "<font color='000000'>third author |</font> ResSKNet-SSDP: Effective and Light End-To-End Architecture for Speaker Recognition"
 collection: publications
 permalink: /publication/2023-01-20-2CFBpicking
 excerpt: 'Proposed a lightweight speaker recognition network based on ResNet.'
