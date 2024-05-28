@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Overview"
+title                    : "peifan's space"
 title_separator          : "-"
 name                     : &name "Peifan Jiang"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Chengdu, China"
-  employer         : # "Red Brick University"
+  employer         : "Chengdu University of Technology"
   uri              : # URL
   email            : "jpeifan@qq.com"
 
