@@ -23,4 +23,5 @@ Before that, I obtained my Master's degree in Computer Technology at Chengdu Uni
 -  Deep learning based magnetotelluric forward modeling and inversion.
 -  Deep learning based seismic first break picking.
 
-📫 Welcome everyone to engage with me, my email address is <u>[jpeifan@qq.com](jpeifan@qq.com)</u>
+---
+📫 Welcome everyone to engage with me, my email address is <font color='00BFFF'><u>jpeifan@qq.com</u></font>
