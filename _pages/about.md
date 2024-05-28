@@ -10,7 +10,7 @@ redirect_from:
 ### Personal profile
 
 ---
-I am currently pursuing my Ph.D. at Chengdu University of Technology, major in Earth Exploration and Information Technology, supervisor by Xuben Wang.
+I am currently pursuing my Ph.D. in Earth Exploration and Information Technology at Chengdu University of Technology, supervisor by Xuben Wang.
 
 Before that, I obtained my Master's degree in Computer Technology at Chengdu University of Technology in 2023.
 
