@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "peifan's space"
+title                    : "Peifan Jiang's space"
 title_separator          : "-"
 name                     : &name "Peifan Jiang"
 description              : &description "personal description"
