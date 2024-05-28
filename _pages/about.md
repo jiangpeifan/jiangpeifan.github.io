@@ -19,7 +19,7 @@ Before that, I obtained my Master's degree in Computer Technology at Chengdu Uni
 
 ---
 I am currently working on:
-- Deep learning based magnetotelluric forward modeling and inversion.
-- Deep learning based seismic first break picking.
+  ✧ Deep learning based magnetotelluric forward modeling and inversion.
+  ✧ Deep learning based seismic first break picking.
 
 Welcome everyone to engage with me, my email address is <u>jpeifan@qq.com</u>
