@@ -19,7 +19,12 @@ Education
 Skills
 ======
 * Programming
+  * Python
+  * Matlab
+  * C/C++ (Currently, it is rarely used)
 * Calligraphy
+  * running script
+  * regular script 
 
 
 
