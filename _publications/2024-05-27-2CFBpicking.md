@@ -30,6 +30,6 @@ In recent years, much attention has been paid to using deep learning techniques 
 ### if this work is helpful for you, please cite
 
 ```
-Undergoing Review (Minor Revision)
+Accepted
 ````
 
