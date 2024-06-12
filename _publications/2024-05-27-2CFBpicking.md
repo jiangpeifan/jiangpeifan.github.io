@@ -14,7 +14,7 @@ In recent years, much attention has been paid to using deep learning techniques 
 
 ## Paper
 
-[3-D Seismic First Break Picking Based on Two Channel Mask Strategy]( )
+[3-D Seismic First Break Picking Based on Two Channel Mask Strategy](https://ieeexplore.ieee.org/document/10552898)
 
 ## Mask Strategy
 ![Mask Strategy](../images/FB/2CFB.png)
@@ -30,6 +30,14 @@ In recent years, much attention has been paid to using deep learning techniques 
 ### if this work is helpful for you, please cite
 
 ```
-Accepted
+@ARTICLE{10552898,
+  author={Jiang, Peifan and Deng, Fei and Wang, Xuben and Lou, Wen and Ye, Chengming},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={3-D Seismic First Break Picking Based on Two Channel Mask Strategy}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2024.3412673}}
 ````
 
