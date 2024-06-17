@@ -12,7 +12,7 @@ redirect_from:
 ---
 My name is Peifan Jiang (蒋沛凡).
 
-I am currently pursuing my Ph.D. in Earth Exploration and Information Technology at Chengdu University of Technology, supervisor by Xuben Wang.
+I am currently pursuing my Ph.D. degree in Earth Exploration and Information Technology at Chengdu University of Technology, supervisor by Xuben Wang.
 
 Before that, I obtained my M.S. degree in Computer Technology at Chengdu University of Technology in 2023.
 
