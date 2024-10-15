@@ -2,7 +2,7 @@
 title: "<font color='ff0000'>✧ first author |</font> 3-D Magnetotelluric Deep Learning Inversion Guided by Pseudo-Physical Information"
 collection: publications
 permalink: /publication/2024-10-15-MTP-PhysicInv
-excerpt: 'A New Deep Learning Method for 3-D Magnetotelluric Inversion.'
+excerpt: 'A new deep learning method for 3-D magnetotelluric inversion.'
 date: 2024-10-15
 venue: 'arXiv, Submit to IEEE TGRS'
 # paperurl: ''
