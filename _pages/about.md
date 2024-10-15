@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Welcome To My Personal Academic Website"
+title: "👋 Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,9 +12,9 @@ redirect_from:
 ---
 My name is Peifan Jiang (蒋沛凡).
 
-I am currently pursuing my Ph.D. degree in Earth Exploration and Information Technology at Chengdu University of Technology, supervisor by Prof. Xuben Wang.
+I am currently pursuing my Ph.D. degree in Earth Exploration and Information Technology, supervisor by Prof. Xuben Wang.
 
-Before that, I obtained my M.S. degree in Computer Technology at Chengdu University of Technology in 2023.
+Before that, I obtained my M.S. degree in Computer Technology in 2023.
 
 Here are some of my [papers](https://jiangpeifan.github.io/publications/) and [presentations](https://jiangpeifan.github.io/talks/).
 
