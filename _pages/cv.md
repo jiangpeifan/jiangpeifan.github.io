@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Earth Exploration and Information Technology, Chengdu University of Technology, 2027 (expected)
+* Ph.D. in Earth Exploration and Information Technology, 2027 (expected)
 * M.S. in Computer Technology, 2023
 * B.S. in Communications Engineering, 2019
 
