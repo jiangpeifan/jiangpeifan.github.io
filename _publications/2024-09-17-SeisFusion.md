@@ -2,7 +2,7 @@
 title: "<font color='000000'>third author |</font> SeisFusion: Constrained Diffusion Model With Input Guidance for 3-D Seismic Data Interpolation and Reconstruction"
 collection: publications
 permalink: /publication/2024-09-17-SeisFusion
-excerpt: '3-D Seismic Data Interpolation and Reconstruction Using Diffusion Model.'
+excerpt: '3-D seismic data interpolation and reconstruction using Diffusion Model.'
 date: 2024-09-17
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 # paperurl: ''
