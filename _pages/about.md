@@ -23,8 +23,8 @@ Here are some of my [papers](https://jiangpeifan.github.io/publications/) and [p
 ---
  I am currently working on:
 
--  Deep learning based magnetotelluric(MT) forward modeling and inversion.
--  Deep learning based seismic first break(FB) picking.
+-  Deep learning based magnetotelluric (MT) forward modeling and inversion.
+-  Deep learning based seismic first break (FB) picking.
 
 ---
 📫 Welcome everyone to engage with me, my email address is <font color='00BFFF'><u>jpeifan@qq.com</u></font>
