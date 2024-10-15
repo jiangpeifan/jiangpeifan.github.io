@@ -16,7 +16,7 @@ Magnetotelluric deep learning (DL) inversion methods based on joint data-driven 
 [3-D Magnetotelluric Deep Learning Inversion Guided by Pseudo-Physical Information](https://arxiv.org/abs/2410.09388)
 
 ## Network Training Process
-![Network Training Process for P-PhysInv](../images/PPhysInv/fig.png)
+![Network Training Process for P-PhysInv](../images/PPhysic/fig.png)
 
 
 ## Cite
